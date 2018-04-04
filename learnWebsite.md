@@ -7,3 +7,4 @@
 7. **[Java进阶之设计模式](https://www.shiyanlou.com/courses/100)**
 8. **[Maven入门教程](https://www.cnblogs.com/jingmoxukong/p/5591368.html)**
 9. **[新建Maven项目-AlanLee博客园](http://www.cnblogs.com/AlanLee/p/6134507.html)**
+10. **[git教程](https://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000)**
