@@ -9,3 +9,4 @@
 9. **[新建Maven项目-AlanLee博客园](http://www.cnblogs.com/AlanLee/p/6134507.html)**
 10. **[git教程](https://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000)**
 11. **[ Oracle数据库实例、用户、表、表空间之间关系 ](https://blog.csdn.net/z69183787/article/details/23526423)**
+12. **[MySQL中的实例、数据库关系简介(包括进程和线程的解释)](https://blog.csdn.net/u010342038/article/details/52798320)**
