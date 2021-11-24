@@ -1,2 +1,0 @@
-learn go learn git cmd
-abc
